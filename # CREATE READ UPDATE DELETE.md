@@ -27,3 +27,5 @@ update address
     -- D(delete)
     delete from address
     where addressnum = 1;
+    
+  0
