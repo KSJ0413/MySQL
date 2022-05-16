@@ -28,4 +28,4 @@ update address
     delete from address
     where addressnum = 1;
     
-  0
+  
